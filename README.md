@@ -1,7 +1,7 @@
 # hello-world
 My First Repository
 
-# Greeting fellow Earth Humans
+# Greetings fellow Earth Humans
 
 I am a real human person
 - Consume earth Tacos
